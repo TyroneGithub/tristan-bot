@@ -1,0 +1,21 @@
+{
+  "prefix": "=",
+  "commands":{
+    "fuckYou" : "fu",
+    "tanginamo": "tanginamo",
+    "randomMura": "rm",
+    "bro": "bro",
+    "yosi": "yosi",
+    "randomPhrase": "rp",
+    "jaenier": "jaenier"
+
+  },
+  "phrases": ["this fucking guy", "yo katip bro", "im getting cyberbullied for no reason", 
+  "DO YOU REALLY THINK NA", "TANIGNA MO BUGBUGIN TALGA KITA", "agree agree?", "I'm going to sue you", "eh eh?", "isoy tayo bro", "stop lying man"
+  ],
+  "paths": {
+    "tanginamo": "./assets/audio/tanginamo/",
+    "fuckYou": "./assets/audio/fuck-you/",
+    "jaenier": "./assets/audio/jaenier/"
+  }
+}
